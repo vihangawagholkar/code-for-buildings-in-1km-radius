@@ -2,8 +2,8 @@ import requests
 import json
 import time
 
-api_key = 'AIzaSyCfTEyNAbKJUNiQ3V-fXh-xg-88Cg5Z2qg'
-api_key1='AIzaSyBIbgNGLY5cYxEvPH843yZ9ZNE5ufMZ3kY'
+api_key = 'Your Google API key1'
+api_key1='Your Google APIkey2'
 address=input('Enter your full address')
 
 lat=''
